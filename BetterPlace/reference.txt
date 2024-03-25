@@ -1,0 +1,43 @@
+											References
+
+Slider-
+https://www.npmjs.com/package/react-alice-carousel
+https://stackoverflow.com/questions/71889810/creating-a-centered-carousel-with-react-alice-carousel
+https://medium.com/how-to-react/create-beautiful-image-sliders-carousels-in-react-using-react-alice-carousel-395d8ae9310c
+
+Map-
+https://medium.com/scalereal/integration-of-google-maps-with-react-part-1-86c075ab452a
+https://medium.com/@yukthihettiarachchissck/getting-started-with-google-maps-api-in-react-js-1390b19d18f0
+https://sudolabs.com/insights/integrating-google-maps-in-react
+
+serch-
+https://dev.to/alais29dev/building-a-real-time-search-filter-in-react-a-step-by-step-guide-3lmm
+https://www.guvi.in/blog/build-a-search-filter-component-in-react/
+
+dropdown-
+https://blog.logrocket.com/how-create-multilevel-dropdown-menu-react/
+https://www.robinwieruch.de/react-dropdown/
+https://www.codemzy.com/blog/reactjs-dropdown-component
+
+sort-
+https://www.linkedin.com/pulse/building-search-bar-filter-data-from-json-file-reactjs-ajeet-achal/
+https://medium.com/@robertalandoballantyne/search-filter-and-sort-in-react-3951a6349318
+https://www.youtube.com/watch?v=c3WSziz_u_o
+https://stackoverflow.com/questions/57861003/how-to-filter-or-search-an-array-of-objects-in-react
+https://stackoverflow.com/questions/63830328/sort-the-product-by-product-price-from-low-to-high-and-vice-versa-in-reactjs
+https://www.linkedin.com/pulse/designing-filter-sort-better-ux-muslimbek-vosidiy/
+https://contactmentor.com/filter-list-by-category-react-js/
+
+drag and drop-
+https://medium.com/@kushanpabasara78/react-drag-drop-image-up-loader-and-image-sorting-component-no-npm-packages-b816030fc8f0(but i cant creat this)
+
+img gallary-
+https://medium.com/@benedictaladi/creating-a-responsive-image-gallery-in-react-a-step-by-step-guide-675e6d9bff55
+
+sorting-
+how to create a sorth methord from react like when user add/select the type of property,price,location(dropdowm menu) then serch after the display the correct object with sorting all images
+
+calender-
+https://www.tutorialspoint.com/how-to-create-calendar-in-reactjs
+
+
